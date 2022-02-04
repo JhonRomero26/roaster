@@ -8,8 +8,8 @@
 #include "Arduino.h"
 #include "webpages.h"
 
-const char *ssid = "Romero";
-const char *pass = "romero1972";
+const char *ssid = "";
+const char *pass = "";
 
 #define DHTTYPE DHT11
 #define DHTPIN 14
